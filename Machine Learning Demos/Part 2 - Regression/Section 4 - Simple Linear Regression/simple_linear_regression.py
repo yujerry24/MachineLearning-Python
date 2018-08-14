@@ -1,4 +1,6 @@
 # Simple Linear Regression
+# Jerry Yu
+# 2018/08/14
 
 # Importing the libraries
 import numpy as np
